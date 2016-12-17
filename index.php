@@ -66,11 +66,11 @@
                     <div class="article-container">
                         <figure class="box">
                             <img src="https://s3-media2.fl.yelpcdn.com/bphoto/KPhwUYqgfEQ8huXs1lH-ew/ls.jpg" alt="Fig3. - Freshly Made Noodles.">
-                            <figcaption>Fig3. - Freshly Made Noodles.</figcaption>
+                            <figcaption>Fig3. - Ichiran.</figcaption>
                         </figure>
                         <div class="article-content">
-                            <h2>Our Freshly Made Noodles</h2>
-                            <p>Prepared daily in-house, our noodles are made with the blend of the finest flours in carefully caliberated conditions of temperature and humidity giving our noodles textural superiority.</p>
+                            <h2>Ichiran Remodification</h2>
+                            <p>This is a remodification of Ichiran's website. While the details are ignored, we propose the use of Z and F patterns to make the brand more modern.</p>
                         </div>
                     </div>
 
