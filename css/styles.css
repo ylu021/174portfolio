@@ -1,0 +1,179 @@
+/*	****************************************
+	Demo styles (for demo purposes only)
+	**************************************** */
+body{
+	font-family: 'Open Sans', sans-serif;
+	font-size: 100%;
+	background-image:url("https://www.ichiran.co.jp/english/img/logo_top.gif");
+	background-repeat:no-repeat;
+	background-position: center; 
+	background-attachment: fixed;
+	color: white;
+}
+
+p { 
+	margin-top: 0;
+	line-height:1.75; 
+	letter-spacing: 0.5px;
+}
+
+h1{
+	font-size: 2.5rem;
+}
+h1, h2 {
+	font-family: 'Alegreya', serif;
+}
+
+article {
+	flex: 0 0 70%;
+}
+
+aside {
+	flex: 0 0 30%;
+}
+
+article, aside {
+	text-align: left;
+}
+
+article h2, aside h2 {
+	font-size: 1.17rem;
+	font-style: italic;
+}
+
+article img, aside img {
+	width: 100%;
+}
+
+#first {
+    height: 100%;
+    width: 100%;
+    background: linear-gradient(to top, rgba(38,38,38,0.75), rgba(38,38,38,0.75)), url(http://pixel.nymag.com/imgs/daily/grub/2016/10/11/magazine/13-ichiran-3.w710.h473.2x.jpg) no-repeat;
+    background-size: cover; 
+    font-size: 1.4rem;
+}
+
+#first h1 {
+	text-align: left;
+}
+
+#second {
+	background: rgba(255,255,255,0.958);
+}
+
+#second h1 {
+	color: black;
+}
+
+#third {
+	background: #b81c22;
+}
+
+#content-1 {
+	padding-top: 33vh;
+}
+
+#content-2 {
+	display: flex;
+	display: -webkit-flex;
+	flex-flow: row;
+	justify-content: space-between;
+	color: black;
+	padding-bottom: 10vh;
+}
+
+#content-3 {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  padding-top:12vh;
+  text-align: center;
+}
+
+#learn-more {
+  display: inline-block;
+  width: 200px;
+  padding: 8px;
+  color: #fff;
+  border: 1px solid #fff;
+  border-radius: 5px;
+  text-align: center;
+  outline: none;
+  text-decoration: none;
+  float: right;
+  margin-left: 15px;
+}
+
+#learn-more:hover,
+#learn-more:active {
+  background-color: #fff;
+  color: #000;
+}
+
+#brand {
+	flex: 0 0 70%;
+}
+
+#brand a {
+	line-height: 1;
+}
+
+/*	****************************************
+	Modules (reusable classes)
+	**************************************** */
+.container {
+	margin: 0 auto;
+	width: 95%;
+	max-width: 960px; 
+}
+
+.content{
+	text-align: left;
+	overflow: auto;
+}	
+
+/*nav*/
+.main-menu {
+	background: #6495ed!important;
+}
+
+.main-menu ul {
+	align-items: center!important;
+	height: 10vh;
+}
+
+.main-menu a {
+	color: white;
+}
+
+/*section2*/
+.article-container {
+	display: flex;
+	display: -webkit-flex;
+	flex-flow: row;
+	justify-content: flex-start;
+}
+
+.article-content {
+	flex: 0 0 60%;
+}
+
+.box {
+  flex: 0 0 20%;
+  width: 200px;
+  margin: 1.5em;
+}
+
+/*section3*/
+.card {
+    box-shadow: 0 2px rgba(0,0,0,0.2);
+    margin: 1em;
+    background: white;
+    color: black;
+
+}
+
+.colophon img{
+	 width: 200px;
+ 	 height:200px;
+}
