@@ -54,12 +54,12 @@
                     
                     <div class="article-container">
                         <figure class="box">
-                            <img src="http://asianbeat.com/files/ichiran_ramen01.jpg" alt="Fig2. - Tonkotsu Ramen.">
+                            <img src="http://urcsc170.org/mtam2/project2-team7/images/logo.png" alt="Fig2. - Hero Central.">
                             <figcaption>Fig2. - Hero Central.</figcaption>
                         </figure>
                         <div class="article-content">
                             <h2>Hero Central</h2>
-                            <p>Since 1960, ICHIRAN has been solely committed to serving only the highest quality tonkotsu ramen. This and bringing authentic flavors to your palette is our goal at ICHIRAN. Behind each and every bowl, our team of dedicated experts continue to hone their skills and innovate to craft you the perfect bowl of the Classic Tonkotsu Ramen.</p>
+                            <p>This is a reference website for all Super Hero lovers; Advanced Front-end Web Design and Development team project 2 (A modification on team 1's project 1). </p>
                         </div>
                     </div>
                     
