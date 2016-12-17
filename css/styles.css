@@ -45,6 +45,14 @@ article img, aside img {
 	width: 100%;
 }
 
+footer {
+    background: aliceblue;
+    font-size: inherit;
+    color: black;
+    text-align: center;
+    padding: 1em;
+}
+
 #first {
     height: 100%;
     width: 100%;

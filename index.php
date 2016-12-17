@@ -92,33 +92,9 @@
        </div><!-- .container -->
 
     </section>
-
-    <!-- Third Section -->
-    <section id="third">
-        <h1>About Us</h1>
-    <div class="container">
-        <div id="content-3" class="content">
-            <div class="card">
-                <figure class="colophon">
-                    <img src="http://www.005.tv/uploads/allimg/161018/2259251254-1.jpg" alt="YichenLu">
-                </figure>
-                <h2>Yichen Lu</h2>
-                <p>
-                    Content strategist
-                </p>
-            </div>
-            <div class="card">
-                <figure class="colophon">
-                    <img src="http://www.005.tv/uploads/allimg/161018/2259254525-2.jpg" alt="YichenLu">
-                </figure>
-                <h2>Xingyi Li</h2>
-                <p>
-                    CSS artist
-                </p>
-            </div>
-        </div><!-- .content -->
-    </div><!-- .container -->
-    </section>
+    <footer class="col-md-12">
+        <p>Copyright 2016 © Yichen Lu. All rights reserved.</p>
+    </footer>
 
 <!-- Use the following JavaScript code to do the smooth-scroll thing on the internal links -->
 <script src="http://code.jquery.com/jquery-2.2.4.min.js"></script>
