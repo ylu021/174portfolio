@@ -27,8 +27,10 @@
         <div class="container">
                
             <div id="content-1" class="content">    
-                <h1>Feature Work</h1> 
-                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur sit amet augue mollis, maximus quam non, pretium eros. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Morbi eget leo aliquet, tincidunt leo vitae, lobortis ex. Mauris vel viverra turpis. In dapibus laoreet turpis ut rhoncus. Vestibulum consequat sem ac libero lacinia tincidunt. Phasellus venenatis interdum ante. Ut lobortis turpis at condimentum consectetur. In facilisis sem at ex lobortis elementum.</p>
+                <h1>Feature Work - Ichiran</h1> 
+                <p>
+                    I teamed up with Kelsey Li to create a modern remodification for Ichiran Ramen's website. This website included Z-pattern page, F-pattern page and colophon-like card page. We also wrote a style definition document, a comprehensie design document and a wireframe diagram for this website.
+                </p>
                 <a id="learn-more" href="#second">Learn More</a>
             </div><!-- .content -->
        </div><!-- .container -->
