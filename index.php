@@ -55,7 +55,7 @@
                     <div class="article-container">
                         <figure class="box">
                             <img src="http://urcsc170.org/mtam2/project2-team7/images/logo.png" alt="Fig2. - Hero Central.">
-                            <figcaption>Fig2. - Hero Central.</figcaption>
+                            <figcaption>Hero Central</figcaption>
                         </figure>
                         <div class="article-content">
                             <h2>Hero Central</h2>
@@ -65,8 +65,8 @@
                     
                     <div class="article-container">
                         <figure class="box">
-                            <img src="https://s3-media2.fl.yelpcdn.com/bphoto/KPhwUYqgfEQ8huXs1lH-ew/ls.jpg" alt="Fig3. - Freshly Made Noodles.">
-                            <figcaption>Fig3. - Ichiran.</figcaption>
+                            <img src="http://www.ichiran.co.jp/img/ichiran.gif" alt="Fig3. - Freshly Made Noodles.">
+                            <figcaption>Ichiran Remodification</figcaption>
                         </figure>
                         <div class="article-content">
                             <h2>Ichiran Remodification</h2>
