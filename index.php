@@ -77,14 +77,12 @@
                 </article>
 
                 <aside>
-                    <h2>Original Goods</h2>
-                    <p>For all who want to enjoy ICHIRAN's delicious flavor at home! Here we present ICHIRAN's Original Goods!</p>
-                    <figure>
-                    <img src="http://www.ichiran.co.jp/en/goods/kamadare_1.jpg" alt="Fig4. - Ichiran Product.">
-                    <figcaption>Fig4. - Ichiran Product.</figcaption>
-                    </figure>
-                    <p>Since our foundation in 1960, our experts have dedicatedly research flavor. Our Original Goods are the result of all that experience and skills.They have made that professional deliciousness easy to make for everyone.</p>
-                    <p>Enjoy ICHIRAN's flavor with your love ones, surprise that special person with a unique ICHIRAN's experience, or give yourself a treat ICHIRAN's style.</p>
+                    <h2>My Contributions</h2>
+                    <ul>
+                        <li>Content Strategist</li>
+                        <li>Designed the interaction and interface components</li>
+                        <li>Programmed the website</li>
+                    </ul>
                 </aside>
 
             </div><!-- .content -->
