@@ -9,7 +9,7 @@
                 <p>
                     I teamed up with Kelsey Li to create a modern remodification for Ichiran Ramen's website. This website included Z-pattern page, F-pattern page and colophon-like card page. We also wrote a style definition document, a comprehensie design document and a wireframe diagram for this website.
                 </p>
-                <a class="ghost-button float-right" href="#second">See more works</a>
+                <a id="accomplishment-link" class="ghost-button" href="#second">See more works</a>
             </div><!-- .content -->
        </div><!-- .container -->
 
