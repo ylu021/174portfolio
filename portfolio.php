@@ -1,7 +1,7 @@
 <?php include "inc/header.inc"; ?>
 
     <!-- Portfolio Section -->
-    <section id="second">
+    <section id="portfolio">
         <div class="container">
             <h1>Portfolio</h1> 
             <div class="content">
