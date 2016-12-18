@@ -6,7 +6,9 @@
     <title>Yichen Lu</title>
     <link rel="stylesheet" href="css/long-scrolly.css">
     <link rel="stylesheet" href="css/styles.css">
-    <link href="https://fonts.googleapis.com/css?family=Alegreya" rel="stylesheet">
+    <link rel="stylesheet" type="text/css" href="plugins/css/default.css" />
+    <link rel="stylesheet" type="text/css" href="plugins/css/component.css" />
+    <link href="https://fonts.googleapis.com/css?family=Comfortaa:400,300,700" rel="stylesheet">
 </head>
 
 <body>
