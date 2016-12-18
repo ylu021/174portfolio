@@ -1,14 +1,16 @@
 <?php
-	$firstname = Trim(stripslashes($_POST['firstname']));
-	$lastname = Trim(stripslashes($_POST['lastname']));
-	$email = Trim(stripslashes($_POST['email']));
-	$phone = Trim(stripslashes($_POST['phone']));
-	$message = Trim(stripslashes($_POST['message']));
 
 	// 1. Create a database connection
 	include 'db-info.php';
 
 	$connection = mysqli_connect($dbhost, $dbuser, $dbpass, $dbname);
+
+	$firstname = Trim(stripslashes($_POST['firstname']));
+	$lastname = Trim(stripslashes($_POST['lastname']));
+	$email = Trim(stripslashes($_POST['email']));
+	$phone = Trim(stripslashes($_POST['phone']));
+	$message = mysqli_real_escape_string($connection, Trim($_POST['message']));
+
 	$query = "INSERT INTO contacts (first_name, last_name, email, phone, message)
 VALUES ('$firstname', '$lastname', '$email', '$phone', '$message')";
 
