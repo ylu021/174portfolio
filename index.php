@@ -1,26 +1,4 @@
-<!DOCTYPE html>
-<html>
-
-<head>
-    <meta charset="utf-8">
-    <title>Yichen Lu</title>
-    <link rel="stylesheet" href="css/long-scrolly.css">
-    <link rel="stylesheet" href="css/styles.css">
-    <link href="https://fonts.googleapis.com/css?family=Alegreya" rel="stylesheet">
-</head>
-
-<body>
-
-    <!-- Navigation -->
-    <nav class="main-menu">
-
-        <ul>
-            <li id="brand"><a href="#"><h1>Yichen Lu</h1></a></li>
-            <li><a href="./">Home</a></li>
-            <li><a href="#portfolio">Portfolio</a></li>
-            <li><a href="#contact">Contact</a></li>
-        </ul>
-    </nav>
+<?php include "inc/header.inc"; ?>
 
     <!-- Top Section -->
     <section id="first">
@@ -31,7 +9,7 @@
                 <p>
                     I teamed up with Kelsey Li to create a modern remodification for Ichiran Ramen's website. This website included Z-pattern page, F-pattern page and colophon-like card page. We also wrote a style definition document, a comprehensie design document and a wireframe diagram for this website.
                 </p>
-                <a id="learn-more" href="#second">Learn More</a>
+                <a class="ghost-button float-right" href="#second">See more works</a>
             </div><!-- .content -->
        </div><!-- .container -->
 
@@ -92,31 +70,5 @@
        </div><!-- .container -->
 
     </section>
-    <footer class="col-md-12">
-        <p>Copyright 2016 © Yichen Lu. All rights reserved.</p>
-    </footer>
-
-<!-- Use the following JavaScript code to do the smooth-scroll thing on the internal links -->
-<script src="http://code.jquery.com/jquery-2.2.4.min.js"></script>
-<script>
-// From:    Smooth Scrolling by CHRIS COYIER, updated JANUARY 31, 2016
-//          https://css-tricks.com/snippets/jquery/smooth-scrolling
-$(function() {
-  $('a[href*="#"]:not([href="#"])').click(function() {
-    if (location.pathname.replace(/^\//,'') == this.pathname.replace(/^\//,'') && location.hostname == this.hostname) {
-      var target = $(this.hash);
-      target = target.length ? target : $('[name=' + this.hash.slice(1) +']');
-      if (target.length) {
-        $('html, body').animate({
-          scrollTop: target.offset().top
-        }, 250);
-        return false;
-      }
-    }
-  });
-});
-</script>
-
-</body>
-
-</html>
+    
+<?php include "inc/footer.inc"; ?>
